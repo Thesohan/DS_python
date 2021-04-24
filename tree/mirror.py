@@ -49,6 +49,7 @@ Another solution (Iterative)
 #         self.right = right
 
 class Solution:
+    sorted
     def isSymmetric(self, root: TreeNode) -> bool:
         stack=[root,root]
         while stack:
