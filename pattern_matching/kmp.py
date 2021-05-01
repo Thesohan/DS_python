@@ -58,6 +58,8 @@ def find_pattern(p, t, m, n):
                 i += 1
     return count
 
+"abd".index()
+
 
 p = input()
 t = input()
