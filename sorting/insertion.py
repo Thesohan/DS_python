@@ -1,4 +1,4 @@
-def insertion_sort(A:list)-> list:
+def insertion_sort(A):
     """
     Ex. A=[2,3,1,5,6,0]
     :param A:
